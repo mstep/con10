@@ -13,6 +13,8 @@ namespace con10
             Console.WriteLine("first");
             Console.WriteLine("second");
             Console.WriteLine("third");
+            Console.WriteLine("fourth");
+            Console.WriteLine("fifth");
         }
     }
 }
