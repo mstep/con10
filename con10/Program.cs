@@ -17,6 +17,8 @@ namespace con10
             Console.WriteLine("fifth");
             Console.WriteLine("sixth");
             Console.WriteLine("seventh");
+            Console.WriteLine("eigth");
+            Console.WriteLine("9");
         }
     }
 }
